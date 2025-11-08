@@ -4,7 +4,7 @@
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bulatovkd92)](https://github.com/bulatovkd92/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bulatovkd92=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bulatovkd92=anuraghazra&show_icons=true&theme=radical)
 [![codewars](https://www.codewars.com/users/bulatovkd92/badges/large)](https://www.codewars.com/users/bulatovkd92)
 
 <!--📏LINE-->
